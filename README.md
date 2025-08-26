@@ -1,19 +1,14 @@
 <h1 align="center">Access Granted — Hello, I'm Jasper! 👨‍💻</h1>
 
 <p align="center">
-📍 Laguna | 💻 Bachelor of Science in Information Technology <br/>
-🏫 Lyceum of Alabang | Batch 2021 - 2025  
+📍 Laguna | 💻 Bachelor of Science in Information Technology | 🏫 Lyceum of Alabang | Batch 2021 - 2025  
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JasperTabin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasperTabin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
----
 
 ## 💻 Tech Stack
 <p align="center">
@@ -31,7 +26,6 @@
   <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
----
 
 ## 📬 Connect with Me
 <p align="center">
@@ -46,19 +40,9 @@
   </a>
 </p>
 
----
-
 ## 🚀 Portfolio
 <p align="center">
   <a href="https://tabin-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JasperTabin&icon=0&color=1"/>
-</p>
-
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->

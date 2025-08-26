@@ -4,13 +4,12 @@
 📍 Laguna | 💻 Bachelor of Science in Information Technology | 🏫 Lyceum of Alabang | Batch 2021 - 2025  
 </p>
 
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JasperTabin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasperTabin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-## 💻 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -27,7 +26,7 @@
 </p>
 
 
-## 📬 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.facebook.com/jasper.tabin.5">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
@@ -40,7 +39,7 @@
   </a>
 </p>
 
-## 🚀 Portfolio
+## Portfolio
 <p align="center">
   <a href="https://tabin-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>

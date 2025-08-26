@@ -1,4 +1,4 @@
-<h1 align="center">Access Granted — Hello, I'm Jasper! 👨‍💻</h1>
+<h1 align="center">Hello, I'm Jasper! 👨‍💻</h1>
 
 <p align="center">
 📍 Laguna | 💻 Bachelor of Science in Information Technology | 🏫 Lyceum of Alabang | Batch 2021 - 2025  
@@ -9,7 +9,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasperTabin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-  ## Tech Stack
+<h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,8 +25,7 @@
   <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-  ## Connect with Me
-
+<h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://www.facebook.com/jasper.tabin.5">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
@@ -39,7 +38,7 @@
   </a>
 </p>
 
-  ## Portfolio
+<h2 align="center">Portfolio</h2>
 <p align="center">
   <a href="https://tabin-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>

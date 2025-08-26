@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JasperTabin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide=stars" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasperTabin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JasperTabin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide=stars" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasperTabin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
 
 ## Tech Stack
 <p align="center">

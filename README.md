@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hello! I'm Jasper Tabin, an aspiring Web Developer. I have been continuously enhancing my skills and exploring various programming languages.<br><br>My current tech stack includes HTML, CSS, JavaScript, Vite JS, and Tailwind CSS. I'm also expanding my skills by learning React and modern UI/UX design principles.<br><br>What drives me is the curiosity about building interactive and user-friendly web applications.
 
 
@@ -10,4 +10,3 @@ Hello! I'm Jasper Tabin, an aspiring Web Developer. I have been continuously enh
 
 [![](https://visitcount.itsvg.in/api?id=JasperTabin&icon=1&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

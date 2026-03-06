@@ -1,6 +1,6 @@
 # Jasper Tabin
 
-Fresh graduate with a BS in Information Technology seeking frontend/web developer opportunities. Passionate about building responsive, user-friendly web applications using modern technologies.
+Fresh graduate with a BS in Information Technology seeking frontend/web developer opportunities & other related role. Passionate about building responsive, user-friendly web applications using modern technologies.
 
 **Lyceum of Alabang** • 2021-2025
 
